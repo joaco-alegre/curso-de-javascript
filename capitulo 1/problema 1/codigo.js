@@ -90,3 +90,4 @@ else if (dineroPedro >= 2.9) {
 	alert("lo siento pedro, pobre de mierda, no te alcanza para ningun helado");
 }
 
+
